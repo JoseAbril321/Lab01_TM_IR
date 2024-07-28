@@ -1,0 +1,3 @@
+# Lab01_TM_IR
+
+Laboratorio #1 de TEXT MINING & IMAGE RECOGNITION
